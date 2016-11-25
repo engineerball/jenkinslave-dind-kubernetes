@@ -1,6 +1,6 @@
-FROM billyteves/ubuntu-dind
+FROM engineerball/ubuntu-dind
 
-MAINTAINER Billy Ray Teves <billyteves@gmail.com>
+MAINTAINER Teerapat Khunpech <ball@engineerball.com>
 
 # Install necessary packages
 RUN apt-get update \
